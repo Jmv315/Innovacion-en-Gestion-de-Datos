@@ -1,0 +1,6 @@
+BD
+La base de datos esta destinada a la gestion de una peluqueria la cual se compone por
+Tablas: 
+Cliente:idCliente; Nombre; Apellido; Telefono; Dni
+Servicio:idServicio; lavado; tinturas; mechas; permanente; bañoCrema; brushing; peinado; idCliente
+Productos:idProducto; tintura; oxidante; crema; champu; decolorante; protector; brillo; horquillas; aceite; reparador; idServicio
